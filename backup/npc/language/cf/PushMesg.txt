@@ -1,0 +1,8 @@
+﻿Defence  ,   "string"  ,   "防區 %d 通道 %d 發生警情!" 
+DoorBell , string, "有人來訪!"
+ExtentInputAlarm, string, "外部觸發報警信號!"
+MotionDetection, string, "運動報警!" 
+PirAlarm, string, "人體紅外檢測到異常!"
+THAlarm, string, "溫濕度超出設置界限!"
+SoundDetection, string, "聲音偵測到異常!"
+LowPower, string, "防區 %d 通道 %d 傳感器電量低!"

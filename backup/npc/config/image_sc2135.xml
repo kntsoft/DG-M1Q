@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+	<exposureMode>0</exposureMode>
+	<autoExposureShutterTimeMin>0</autoExposureShutterTimeMin>
+	<autoExposureShutterTimeMax>9</autoExposureShutterTimeMax>
+	<autoExposureGainMin>0</autoExposureGainMin>
+	<autoExposureGainMax>36</autoExposureGainMax>
+	<manualExposureShutterTime>7</manualExposureShutterTime>
+	<manualExposureGain>18</manualExposureGain>
+	<exposureMeterMode>0</exposureMeterMode>
+
+	<dcIrisEnable>0</dcIrisEnable>
+
+	<wbMode>0</wbMode>
+	<mwbRGain>1024</mwbRGain>
+	<mwbGGain>1024</mwbGGain>
+	<mwbBGain>1024</mwbBGain>
+
+	<antiFlickerMode>0</antiFlickerMode>
+	<backLightEnable>0</backLightEnable>
+	<backLightLevel>0</backLightLevel>
+
+	<brightness>128</brightness>
+	<saturation>64</saturation>
+	<contrast>128</contrast>
+	<sharpness>128</sharpness>
+	<hue>128</hue>
+
+	<denoiseEnable>0</denoiseEnable>
+	<denoiseEnable>0</denoiseEnable>
+	
+	<ircutAutoMode>1</ircutAutoMode>
+	<ircutNight>-1</ircutNight>
+	<nightThreshold>780</nightThreshold>
+	<dayThreshold>680</dayThreshold>
+
+</Image>

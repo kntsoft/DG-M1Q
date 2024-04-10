@@ -1,0 +1,8 @@
+﻿Defence  ,   "string"  ,   "defence %d channel %d alarm occur!" 
+DoorBell , string, "Some Body visit!"
+ExtentInputAlarm, string, "ExtentInputAlarm!"
+MotionDetection, string, " Motion detection Alarm!" 
+PirAlarm, string, "People's IR dectected alarm!"
+THAlarm, string, "Temperature and Humidity is over limited!"
+SoundDetection, string, "Sound detector found abnormal!"
+LowPower, string, "defence %d channel %d Low Power!"
